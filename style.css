@@ -1,0 +1,55 @@
+body{
+font-family: 'Montserrat', sans-serif;
+font-size: 15px;
+font-weight: 100;
+color:#000000;
+}
+
+#whoiam i{
+	font-size: 50px;
+	align-content: center;
+     width: 100px;
+     height: 100px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #FFFFFF;
+	padding: 25px;
+		color:#81BCDF;
+}
+
+#whoiam{
+	text-align: center;
+}
+
+#intro{
+	background-color: #81BCDF;
+	line-height: normal;
+
+}
+
+#about h1{
+	font-size: 50px;
+	font-weight: bold;
+
+}
+
+#about{
+	margin:10px 0px 160px 0px;
+}
+
+#services{
+	background-color:#000000 ;
+	color: #fafafa;
+	
+}
+
+#services h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+#contact h1{
+	font-size: 50px;
+	font-weight: bold;
+}
